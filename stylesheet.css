@@ -1,0 +1,50 @@
+.header {
+
+  position: fixed;
+  border-radius: 8px;
+  width: 98.5%;
+  height: 60px;
+  background-color: #668284;
+  margin-bottom: 10px;
+}
+.left {
+  position: relative;
+  float: left;
+  margin-top: 40px;
+  width: 10%;
+  height: 90%;
+  background-color: #B9D7D9;
+}
+button {
+  float: right;
+  font-size: 18px;
+  font-family: calibri;
+  height: 55px;
+  width: 100px;
+  color: black;
+  display: table-row;
+  border-radius: 5px;
+  background-color: #668284;
+}
+#navbar {
+    padding-right:20px;
+}
+.block {
+  padding: 5px;
+  border: 1px none black;
+  height: 820px;
+}
+.header p {
+  position: relative;
+  float: left;
+  font-style: italic;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  font-size: 20px;
+  font-family: Verdana;
+  font-weight: bolder;
+}
+.body p {
+  position: relative;
+  font-size: 30px;
+}
